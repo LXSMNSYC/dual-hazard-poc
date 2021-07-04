@@ -1,0 +1,13 @@
+{
+  "version": "0.0.0",
+  "name": "module-d",
+  "dependencies": {
+  },
+  "exports": {
+    "import": "./dist/index.js",
+    "require": "./dist/esm/index.js"
+  },
+  "devDependencies": {
+    "esbuild": "^0.12.14"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": "0.0.0",
+  "name": "module-b",
+  "devDependencies": {
+    "esbuild": "^0.12.14"
+  },
+  "exports": "./dist/index.js",
+  "dependencies": {
+    "module-d": "0.0.0"
+  }
+}

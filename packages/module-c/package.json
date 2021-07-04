@@ -1,0 +1,11 @@
+{
+  "version": "0.0.0",
+  "name": "module-c",
+  "devDependencies": {
+    "esbuild": "^0.12.14"
+  },
+  "dependencies": {
+    "module-a": "0.0.0",
+    "module-b": "0.0.0"
+  }
+}

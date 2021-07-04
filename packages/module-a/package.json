@@ -1,0 +1,11 @@
+{
+  "version": "0.0.0",
+  "name": "module-a",
+  "dependencies": {
+    "valtio": "^1.0.6"
+  },
+  "exports": "./dist/index.js",
+  "devDependencies": {
+    "module-d": "0.0.0"
+  }
+}
